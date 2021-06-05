@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**axkr/axkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
+- 📫 you can reach me: [on Twitter](https://twitter.com/axelclk) or write [an e-mail](mailto:axelclk@gmail.com).
+<!-- 
 
 Here are some ideas to get you started:
 
