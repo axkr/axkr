@@ -1,6 +1,7 @@
 ### Hi there, I'm Axel Kramer 👋
 
 - 🔭 I’m currently working on [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
+- 💬 On the [Symja demo site](http://matheclipse.org/) you can test most of the Symja language features.
 - 📫 you can reach me: [on Twitter](https://twitter.com/axelclk) or write an e-mail to [Axel Kramer](mailto:axelclk@gmail.com).
 <!--  
  
