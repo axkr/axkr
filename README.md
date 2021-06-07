@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
 - 💬 On the [Symja demo site](http://matheclipse.org/) you can test most of the Symja language features.
 - 📫 You can reach me via e-mail as [axelclk@gmail.com](mailto:axelclk@gmail.com).
-- 👨‍💻 You can support me as a [Sponsor](https://github.com/sponsors/axkr). 
+- 👨‍💻 If you like you can support me as a [Sponsor](https://github.com/sponsors/axkr). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
