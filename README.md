@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Axel Kramer 👋
 
 - 🔭 I’m currently working on [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
 - 📫 you can reach me: [on Twitter](https://twitter.com/axelclk) or write an e-mail to [Axel Kramer](mailto:axelclk@gmail.com).
