@@ -1,26 +1,24 @@
-### Hi there, I'm Axel Kramer 👋
+<h2 align="center">Hi 👋, I'm Axel Kramer</h2>
+<h4 align="center">A passionate Java developer from Germany</h4>
+
+<p align="left"> <a href="https://twitter.com/axelclk" target="blank"><img src="https://img.shields.io/twitter/follow/axelclk?logo=twitter&style=for-the-badge" alt="axelclk" /></a> </p>
 
 - 🔭 I’m currently working on [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
 - 💬 On the [Symja demo site](http://matheclipse.org/) you can test most of the Symja language features.
-- 📫 you can reach me: [on Twitter](https://twitter.com/axelclk) or write an e-mail to [Axel Kramer](mailto:axelclk@gmail.com).
-<!--  
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can reach me via e-mail [Axel Kramer](mailto:axelclk@gmail.com).
+- 👨‍💻 You can support me as a [Sponsor](https://github.com/sponsors/axkr). 
 
-### Languages and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/axelclk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axelclk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24819" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> 
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axkr&label=Profile%20views&color=0e75b6&style=flat" alt="axkr" /> </p>
