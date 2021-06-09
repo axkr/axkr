@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Axel Kramer</h2>
 <h4 align="center">A passionate Java developer from Germany</h4>
 
-- 🔭 I’m currently working on [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
-- 💬 On the [Symja demo site](http://matheclipse.org/) you can test most of the Symja language features.
-- 💬 Test the [Symja JSON API](https://github.com/axkr/symja_android_library/wiki/API) at [Symja.org](https://symja.org/) 
+- 🔭 I’m currently working on the [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
+- 💬 On the [Symja demo site](http://matheclipse.org/) you can test most of the [Symja language features](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/index.md).
+- 💬 The [Symja JSON API](https://github.com/axkr/symja_android_library/wiki/API) can be tested at [Symja.org](https://symja.org/) 
 - 📫 You can reach me via e-mail as [axelclk@gmail.com](mailto:axelclk@gmail.com).
 - 📫 Chat with me via [Symja on Gitter](https://gitter.im/symja_android_library/Lobby).
 - 👨‍💻 If you like you can support the development of the Symja language as a [Github Sponsor](https://github.com/sponsors/axkr). 
