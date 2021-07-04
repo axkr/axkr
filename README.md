@@ -21,5 +21,5 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://twitter.com/axelclk" target="blank"><img src="https://img.shields.io/twitter/follow/axelclk?logo=twitter&style=for-the-badge" alt="axelclk" /></a> </p> 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/axkr)
+<p align="left"> <a href="https://twitter.com/axelclk" target="blank"><img src="https://img.shields.io/twitter/follow/axelclk?logo=twitter&style=for-the-badge" alt="axelclk" /></a> </p>
+<p align="left"> <a href="https://www.buymeacoffee.com/axkr" target="blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"alt="axelclk" /></a> </p> 
