@@ -12,7 +12,9 @@
 <p align="left">
 <a href="https://discord.gg/tYknzr2qam" target="blank"><img src="https://img.shields.io/discord/869895703718166529.svg?color=7289da&label=Symja&logo=discord&style=for-the-badge" alt="Symja" /></a>
 <a href="https://twitter.com/axelclk" target="blank"><img src="https://img.shields.io/twitter/follow/axelclk?logo=twitter&style=for-the-badge" alt="axelclk" /></a>
+<a href="https://stackoverflow.com/users/24819" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/24819?logo=stackoverflow&style=for-the-badge" alt="axelclk" /></a>
 </p>
+
 <p align="left">
 <a href="https://twitter.com/axelclk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axelclk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24819" height="30" width="40" /></a>
