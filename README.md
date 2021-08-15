@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/tYknzr2qam" target="blank"><img src="https://img.shields.io/discord/869895703718166529.svg?color=7289da&label=Symja&logo=discord&style=for-the-badge" alt="Symja" /></a> <a href="https://twitter.com/axelclk" target="blank"><img src="https://img.shields.io/twitter/follow/axelclk?logo=twitter&style=for-the-badge" alt="axelclk" /></a> <a href="https://hub.docker.com/r/symja/symja-2.0" target="blank"><img src="https://img.shields.io/docker/pulls/symja/symja-2.0?logo=docker&style=for-the-badge" alt="Symja" />
+<a href="https://discord.gg/tYknzr2qam" target="blank"><img src="https://img.shields.io/discord/869895703718166529.svg?color=7289da&label=Join Symja @ Discord&logo=discord&style=for-the-badge" alt="Join Symja @ Discord" /></a> <a href="https://twitter.com/axelclk" target="blank"><img src="https://img.shields.io/twitter/follow/axelclk?logo=twitter&style=for-the-badge" alt="axelclk" /></a> <a href="https://hub.docker.com/r/symja/symja-2.0" target="blank"><img src="https://img.shields.io/docker/pulls/symja/symja-2.0?logo=docker&style=for-the-badge" alt="Symja" />
  <a href="https://stackoverflow.com/users/24819" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/24819?logo=stackoverflow&style=for-the-badge" alt="axelclk" /></a>
 </p>
 
