@@ -13,11 +13,6 @@
 <a href="https://discord.gg/tYknzr2qam" target="blank"><img src="https://img.shields.io/discord/869895703718166529.svg?color=7289da&label=Join Symja @ Discord&logo=discord&style=for-the-badge" alt="Join Symja @ Discord" /></a> <a href="https://twitter.com/axelclk" target="blank"><img src="https://img.shields.io/twitter/follow/axelclk?logo=twitter&style=for-the-badge" alt="axelclk" /></a> <a href="https://hub.docker.com/r/symja/symja-2.0" target="blank"><img src="https://img.shields.io/docker/pulls/symja/symja-2.0?logo=docker&style=for-the-badge" alt="Symja" />
  <a href="https://stackoverflow.com/users/24819" target="blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/24819?logo=stackoverflow&style=for-the-badge" alt="axelclk" /></a>
 </p>
-
- <a href="https://dev.java">
-  <img src="https://dev.java/assets/images/java-affinity-logo-icode-lg.png" />
-</a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
