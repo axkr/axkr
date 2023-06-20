@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on the [Symja computer algebra language](https://github.com/axkr/symja_android_library) and associated projects. 
 - 💬 On the [Symja demo site](https://matheclipse.org/) you can test most of the [Symja language features](https://github.com/axkr/symja_android_library/blob/master/symja_android_library/doc/index.md).
-- 🤖 If you're an Android developer you can try our minimal [Symja Android calculator](https://github.com/axkr/symja-example)
-- 💬 The [Symja JSON API](https://github.com/axkr/symja_android_library/wiki/API) can be tested at [Symja.org](https://symja.org/) 
-- 📫 You can subscribe to my blog [axelkramer.substack.com](https://axelkramer.substack.com) 
+- 🧮 If you're an Android developer please try out the [Symja Android calculator](https://github.com/axkr/symja-example) example.
+- 💬 The [Symja JSON API](https://github.com/axkr/symja_android_library/wiki/API) can be tested at [Symja.org](https://symja.org/).
+- 📫 You can subscribe to my blog [axelkramer.substack.com](https://axelkramer.substack.com).
 - 📫 Chat with me via [Symja on Discord](https://discord.gg/JEm8wyQeq2) or reach me via e-mail as [axelclk@gmail.com](mailto:axelclk@gmail.com).
 - 👨‍💻 If you like you can support the development of the Symja language as a [Github Sponsor](https://github.com/sponsors/axkr). 
 
